@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-Glad to see you here. Hope you fing something interesting.
+Glad to see you here. Hope you find something interesting.
