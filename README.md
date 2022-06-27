@@ -11,7 +11,7 @@ I use GitHub mostly to store and synchronize my work.<br>
 I everyday tech stack includes
  - [ReactJS](https://reactjs.org): Mostly NextJS 🧑🏻‍💻
  - [NodeJS](https://nodejs.org): Any application that can be written in JavaScript, will eventually be written in JavaScript.
- - [MongoDB] (https://mongodb.com): The easy-pesy lemonsqueezy Database of the era. 
+ - [MongoDB](https://mongodb.com): The easy-pesy lemonsqueezy Database of the era. 
  - [Web3](https://en.wikipedia.org/wiki/Web3): Ethereum, Wallets 🪙
  - [Tailwind](https://tailwindcss.com/): The utility based css framework 💅🏻
  - [AWS](https://aws.com): The web 🕸
