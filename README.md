@@ -8,7 +8,7 @@ Some of my works are listed on my [portfolio](https://nirola.tech).
 
 ### .code
 I use GitHub mostly to store and synchronize my work.<br>
-I everyday tech stack includes
+My everyday tech stack includes
  - [ReactJS](https://reactjs.org): Mostly NextJS 🧑🏻‍💻
  - [NodeJS](https://nodejs.org): Any application that can be written in JavaScript, will eventually be written in JavaScript.
  - [MongoDB](https://mongodb.com): The easy-pesy lemonsqueezy Database of the era. 
